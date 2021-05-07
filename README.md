@@ -5,6 +5,7 @@
 
 
 ## Own research
+![SubtidalWindReg2](https://github.com/henkjongbloed/henkjongbloed.github.io/blob/includeImage/Reg2.png)
 <!---
 You can use the [editor on GitHub](https://github.com/henkjongbloed/henkjongbloed.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
