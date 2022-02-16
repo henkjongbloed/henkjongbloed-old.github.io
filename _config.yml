@@ -102,11 +102,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Henk Jongbloed"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "PhD Candidate at WUR / TUD, The Netherlands."
+  location         : "Delft"
+  email            : "henk.jongbloed@wur.nl"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
