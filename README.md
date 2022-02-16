@@ -9,6 +9,12 @@
 
 _An example of an idealised estuary in the **Chatwin** regime_ (See also [Wikipedia: Estuaries](https://en.wikipedia.org/wiki/Estuary) )
 
+## Addition for OSM presentation
+
+For the Ocean Sciences Meeting 2022, I presented my first paper. A visual summary of this paper is given below.
+![SubtidalWindReg2](https://raw.githubusercontent.com/henkjongbloed/henkjongbloed.github.io/main/Res2Cartoon_1.png)
+
+Be sure to check out my presentation on March 4th!
 <!---
 You can use the [editor on GitHub](https://github.com/henkjongbloed/henkjongbloed.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
